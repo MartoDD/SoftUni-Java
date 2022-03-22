@@ -5,9 +5,9 @@ Programming Basics with Java
 <g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji>
 </h2>
 
-1. First Steps In Coding -Lab/Exercises/More Exercises
-2. Conditional Statements -Lab/Exercises/More Exercises
-3. Conditional Statements Advanced -Lab/Exercises/More Exercises
-4. For-Loop -Lab/Exercises/More Exercises
-5. While-Loop -Lab/Exercises/More Exercises
-6. Nested Loops -Lab/Exercises/More Exercises
+1. First Steps In Coding -||Lab||Exercises||More Exercises||
+2. Conditional Statements -||Lab||Exercises||More Exercises||
+3. Conditional Statements Advanced -||Lab||Exercises||More Exercises||
+4. For-Loop -||Lab||Exercises||More Exercises||
+5. While-Loop -||Lab||Exercises||More Exercises||
+6. Nested Loops -||Lab||Exercises||More Exercises||
