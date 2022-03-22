@@ -30,9 +30,6 @@ public class Substitute {
                                 break;
                             }
                         }
-                        if (reachedSix) {
-                            break;
-                        }
                     }
                     if (reachedSix) {
                         break;
