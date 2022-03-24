@@ -23,7 +23,7 @@ public class SantasSecretHelper {
                 char a = (char) (input.charAt(i) - key);
                 sb.append(a);
             }
-            Pattern pattern = Pattern.compile("@([A-Z][a-z]+)[^@\\-!:>]*!([G|N])![^@\\-!:>]*"); //one regEx to find all the values by groups
+            Pattern pattern = Pattern.compile("@([A-Za-z]+)[^@\\-!:>]*!([G|N])![^@\\-!:>]*"); //one regEx to find all the values by groups
             Matcher matcher = pattern.matcher(sb);
             String name;
             String goodOrBad;
