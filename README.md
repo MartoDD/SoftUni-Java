@@ -7,7 +7,7 @@ Homework and Exams from my Java Courses in SoftUni
 Programming Basics with Java - September 2021
 <a href="https://softuni.bg/certificates/details/116262/73050821" rel="nofollow">Certificated</a>
 <g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji>
-  <a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Programming%20Basics%20with%20Java/src" rel=nofollow>Go to Folder</a>
+ <br><a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Programming%20Basics%20with%20Java/src" rel=nofollow>Go to Folder</a>
 </h2>
   
  
