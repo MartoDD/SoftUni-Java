@@ -1,5 +1,5 @@
 # SoftUni-Java
-Homework and Exams from my Java Courses in SoftUni
+Homework, Exams and some basic projects from my Java Courses in SoftUni
 <h1>  
   Entry Module
 <h2 dir="auto">
