@@ -12,7 +12,7 @@ Programming Basics with Java - September 2021
   
  
   
-1. First Steps In Coding <a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Programming%20Basics%20with%20Java/src/FirstStepsInCoding/Lab" rel="nofollow">Lab</a>, <a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Programming%20Basics%20with%20Java/src/FirstStepsInCoding/Excersises">Exercise</a>, <a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Programming%20Basics%20with%20Java/src/FirstStepsInCoding/MoreExercises">More Exercises</a> 
+1. First Steps In Coding - <a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Programming%20Basics%20with%20Java/src/FirstStepsInCoding/Lab" rel="nofollow">Lab</a>, <a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Programming%20Basics%20with%20Java/src/FirstStepsInCoding/Excersises">Exercise</a>, <a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Programming%20Basics%20with%20Java/src/FirstStepsInCoding/MoreExercises">More Exercises</a> 
 2. Conditional Statements -Lab-Exercise-More Exercises
 3. Conditional Statements Advanced -Lab-Exercise-More Exercises
 4. For-Loop -Lab-Exercise-More Exercises
