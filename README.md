@@ -16,3 +16,6 @@ Programming Basics with Java
 5. While-Loop -Lab-Exercise-More Exercises
 6. Nested Loops -Lab-Exercise-More Exercises
 </h1>
+<h1>
+  Fundamentals Module
+  </h1>
