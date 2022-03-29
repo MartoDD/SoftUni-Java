@@ -1,7 +1,6 @@
 package MapsLambdaAndStreamAPI.MoreExercises;
 
 import java.util.*;
-import java.util.concurrent.atomic.AtomicBoolean;
 
 public class Snowwhite {
     public static void main(String[] args) {
@@ -16,25 +15,25 @@ public class Snowwhite {
             String name = data[0];
             String color = data[1];
             int physics = Integer.parseInt(data[2]);
-            AtomicBoolean dwarfIsPresent = new AtomicBoolean(false);
-            if (dwarves.containsKey(color)) {
-                dwarves.get(color).forEach(dwarf -> {
-                    if (dwarf.getName().equals(name)) {
-                        dwarfIsPresent.set(true);
-                        if (dwarf.getPhysics() < physics) {
+            boolean dwarfIsPresent = false;
+            if (!dwarves.containsKey(color)){
+                dwarves.putIfAbsent(color,new ArrayList<>());
+                dwarves.get(color).add(new Dwarf(name,physics));
+            }else {
+                for (Dwarf dwarf : dwarves.get(color)) {
+                    if (dwarf.getName().equals(name)){
+                        dwarfIsPresent=true;
+                        if (dwarf.getPhysics()<physics){
                             dwarf.setPhysics(physics);
+                            break;
                         }
                     }
-                });
-                if (!dwarfIsPresent.get()) {
-                    dwarves.get(color).add(new Dwarf(name, physics));
-
                 }
-            } else {
-                dwarves.putIfAbsent(color, new ArrayList<>());
-                dwarves.get(color).add(new Dwarf(name, physics));
-            }
+                if (!dwarfIsPresent){
+                    dwarves.get(color).add(new Dwarf(name,physics));
+                }
 
+            }
 
             input = scanner.nextLine();
         }
