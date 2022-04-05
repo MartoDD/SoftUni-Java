@@ -1,7 +1,7 @@
 # SoftUni-Java
 Homework, Exams and some basic projects from my Java Courses in SoftUni
 <h1>  
-   <g-emoji alias="pencil2" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/270f.png" class="emoji-result">✏️</g-emoji>
+   <g-emoji alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png" class="emoji-result">💻</g-emoji>
   Entry Module
 <h3 dir="auto">
 <g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji>
@@ -21,7 +21,7 @@ Programming Basics with Java - September 2021
 6. Nested Loops - <a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Programming%20Basics%20with%20Java/src/NestedLoops/Lab" rel="nofollow">Lab</a>, <a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Programming%20Basics%20with%20Java/src/NestedLoops/Excersises">Exercise</a>, <a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Programming%20Basics%20with%20Java/src/NestedLoops/MoreExcersises">More Exercises</a>
 </h1>
 <h1>
-   <g-emoji alias="pencil2" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/270f.png" class="emoji-result">✏️</g-emoji>
+   <g-emoji alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png" class="emoji-result">💻</g-emoji>
   Fundamentals Module
   </h1>
   <h3 dir="auto">
@@ -32,7 +32,7 @@ Programming Fundamentals with Java - January 2022
  <br><a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Programming%20Fundamentals%20with%20Java/src" rel=nofollow>Go to Folder</a>
 </h3>
 <h1>
-   <g-emoji alias="pencil2" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/270f.png" class="emoji-result">✏️</g-emoji>
+   <g-emoji alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png" class="emoji-result">💻</g-emoji>
   Professional Modules
   </h1>
   <h2>
