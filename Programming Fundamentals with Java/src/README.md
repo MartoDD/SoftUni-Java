@@ -1,10 +1,10 @@
- <h1 dir="auto">
+ <h2 dir="auto">
 <g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji>
 Programming Fundamentals with Java - January 2022
 <a href="https://softuni.bg/certificates/details/129682/3210635c" rel="nofollow">Certified</a>
 <g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji>
  <br>
-</h1>
+</h2>
 
 
 1. Basic Syntax, Conditional Statements and Loops - <a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Programming%20Fundamentals%20with%20Java/src/BasicSyntaxConditionalStatementsAndLoops/Lab" rel="nofollow">Lab</a>, <a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Programming%20Fundamentals%20with%20Java/src/BasicSyntaxConditionalStatementsAndLoops/Exercise">Exercise</a>, <a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Programming%20Fundamentals%20with%20Java/src/BasicSyntaxConditionalStatementsAndLoops/MoreExercises">More Exercises</a>
