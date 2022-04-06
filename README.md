@@ -1,5 +1,7 @@
 # SoftUni-Java
+<h2>
 Homework, Exams and some basic projects from my Java Courses in SoftUni
+</h2>
 <h1>  
    <g-emoji alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png" class="emoji-result">💻</g-emoji>
   Entry Module
@@ -31,6 +33,27 @@ Programming Fundamentals with Java - January 2022
 <g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji>
  <br><a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Programming%20Fundamentals%20with%20Java/src" rel=nofollow>Go to Folder</a>
 </h3>
+
+
+1. Basic Syntax, Conditional Statements and Loops
+2. HTTP Basics
+3. Data Types and Variables
+4. HTML & CSS Basics
+5. Arrays
+6. Software Development Concepts - Part 1
+7. Methods
+8. Software Development Concepts - Part 2
+9. List
+10. Objects and Classes
+11. Bitwise Operations
+12. Associative Arrays
+13. Problem Solving
+14. Text Processing
+15. Database Basics
+16. Regular Expressions
+17. Git and GitHub
+18. QA Introduction
+
 <h1>
    <g-emoji alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png" class="emoji-result">💻</g-emoji>
   Professional Modules
