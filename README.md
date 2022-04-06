@@ -53,6 +53,9 @@ Programming Fundamentals with Java - January 2022
 16. Regular Expressions - <a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Programming%20Fundamentals%20with%20Java/src/RegularExpressions/Lab" rel="nofollow">Lab</a>, <a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Programming%20Fundamentals%20with%20Java/src/RegularExpressions/Exercises">Exercise</a>, <a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Programming%20Fundamentals%20with%20Java/src/RegularExpressions/MoreExercises">More Exercises</a>
 17. Git and GitHub
 18. QA Introduction
+<h3>
+<g-emoji alias="wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f527.png" class="emoji-result">🔧</g-emoji> <a href="https://github.com/MartoDD/Basic-Web-Project--Phonebook">Basic Web Project</a>
+   </h3>
 
 <h1>
    <g-emoji alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png" class="emoji-result">💻</g-emoji>
