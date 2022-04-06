@@ -67,9 +67,9 @@ Programming Fundamentals with Java - January 2022
   </h2>
   <h3>
   <g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji>
-  Java Advanced
+  Java Advanced - May 2022
   </h3>
   <h3>
   <g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji>
-  Java OOP
+  Java OOP - June 2022
   </h3>
