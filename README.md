@@ -69,6 +69,17 @@ Programming Fundamentals with Java - January 2022
   <g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji>
   Java Advanced - May 2022
   </h3>
+  
+  1. Stacks and Queues 
+  2. Multidimensional Arrays 
+  3. Sets and Maps Advanced 
+  4. Streams, Files and Directories 
+  5. Functional Programming 
+  6. Defining classes 
+  7. Workshop 
+  8. Generics 
+  9. Iterators and Comparators 
+  10. Workshop 
   <h3>
   <g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji>
   Java OOP - June 2022
