@@ -1,14 +1,17 @@
 # SoftUni-Java
+<h2>
 Homework, Exams and some basic projects from my Java Courses in SoftUni
+</h2>
 <h1>  
+   <g-emoji alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png" class="emoji-result">💻</g-emoji>
   Entry Module
-<h2 dir="auto">
+<h3 dir="auto">
 <g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji>
 Programming Basics with Java - September 2021
 <a href="https://softuni.bg/certificates/details/116262/73050821" rel="nofollow">Certified</a>
 <g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji>
  <br><a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Programming%20Basics%20with%20Java/src" rel=nofollow>Go to Folder</a>
-</h2>
+</h3>
   
  
   
@@ -20,5 +23,101 @@ Programming Basics with Java - September 2021
 6. Nested Loops - <a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Programming%20Basics%20with%20Java/src/NestedLoops/Lab" rel="nofollow">Lab</a>, <a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Programming%20Basics%20with%20Java/src/NestedLoops/Excersises">Exercise</a>, <a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Programming%20Basics%20with%20Java/src/NestedLoops/MoreExcersises">More Exercises</a>
 </h1>
 <h1>
+   <g-emoji alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png" class="emoji-result">💻</g-emoji>
   Fundamentals Module
   </h1>
+  <h3 dir="auto">
+<g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji>
+Programming Fundamentals with Java - January 2022
+<a href="https://softuni.bg/certificates/details/129682/3210635c" rel="nofollow">Certified</a>
+<g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji>
+ <br><a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Programming%20Fundamentals%20with%20Java/src" rel=nofollow>Go to Folder</a>
+</h3>
+
+
+1. Basic Syntax, Conditional Statements and Loops - <a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Programming%20Fundamentals%20with%20Java/src/BasicSyntaxConditionalStatementsAndLoops/Lab" rel="nofollow">Lab</a>, <a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Programming%20Fundamentals%20with%20Java/src/BasicSyntaxConditionalStatementsAndLoops/Exercise">Exercise</a>, <a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Programming%20Fundamentals%20with%20Java/src/BasicSyntaxConditionalStatementsAndLoops/MoreExercises">More Exercises</a>
+2. HTTP Basics
+3. Data Types and Variables - <a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Programming%20Fundamentals%20with%20Java/src/DataTypesAndVariables/Lab" rel="nofollow">Lab</a>, <a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Programming%20Fundamentals%20with%20Java/src/DataTypesAndVariables/Exercise">Exercise</a>, <a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Programming%20Fundamentals%20with%20Java/src/DataTypesAndVariables/MoreExercise">More Exercises</a>
+4. HTML & CSS Basics
+5. Arrays - <a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Programming%20Fundamentals%20with%20Java/src/Arrays/Lab" rel="nofollow">Lab</a>, <a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Programming%20Fundamentals%20with%20Java/src/Arrays/Exercise">Exercise</a>, <a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Programming%20Fundamentals%20with%20Java/src/Arrays/MoreExercises">More Exercises</a>
+6. Software Development Concepts - Part 1
+7. Methods - <a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Programming%20Fundamentals%20with%20Java/src/Methods/Lab" rel="nofollow">Lab</a>, <a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Programming%20Fundamentals%20with%20Java/src/Methods/Exercises">Exercise</a>, <a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Programming%20Fundamentals%20with%20Java/src/Methods/MoreExercises">More Exercises</a>
+8. Software Development Concepts - Part 2
+9. List - <a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Programming%20Fundamentals%20with%20Java/src/Lists/Lab" rel="nofollow">Lab</a>, <a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Programming%20Fundamentals%20with%20Java/src/Lists/Excersise">Exercise</a>, <a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Programming%20Fundamentals%20with%20Java/src/Lists/MoreExercise">More Exercises</a>
+10. Objects and Classes - <a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Programming%20Fundamentals%20with%20Java/src/Objects%D0%90ndClasses/Lab" rel="nofollow">Lab</a>, <a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Programming%20Fundamentals%20with%20Java/src/Objects%D0%90ndClasses/Exercise">Exercise</a>, <a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Programming%20Fundamentals%20with%20Java/src/Objects%D0%90ndClasses/MoreExercises">More Exercises</a>
+11. Bitwise Operations
+12. Associative Arrays - <a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Programming%20Fundamentals%20with%20Java/src/MapsLambdaAndStreamAPI/Lab" rel="nofollow">Lab</a>, <a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Programming%20Fundamentals%20with%20Java/src/MapsLambdaAndStreamAPI/Exercises">Exercise</a>, <a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Programming%20Fundamentals%20with%20Java/src/MapsLambdaAndStreamAPI/MoreExercises">More Exercises</a>
+13. Problem Solving
+14. Text Processing - <a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Programming%20Fundamentals%20with%20Java/src/TextProcessing/Lab" rel="nofollow">Lab</a>, <a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Programming%20Fundamentals%20with%20Java/src/TextProcessing/Exercise">Exercise</a>, <a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Programming%20Fundamentals%20with%20Java/src/TextProcessing/MoreExercises">More Exercises</a>
+15. Database Basics
+16. Regular Expressions - <a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Programming%20Fundamentals%20with%20Java/src/RegularExpressions/Lab" rel="nofollow">Lab</a>, <a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Programming%20Fundamentals%20with%20Java/src/RegularExpressions/Exercises">Exercise</a>, <a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Programming%20Fundamentals%20with%20Java/src/RegularExpressions/MoreExercises">More Exercises</a>
+17. Git and GitHub
+18. QA Introduction
+<h3>
+<g-emoji alias="wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f527.png" class="emoji-result">🔧</g-emoji> <a href="https://github.com/MartoDD/Basic-Web-Project--Phonebook">Basic Web Project</a>
+   </h3>
+
+<h1>
+   <g-emoji alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png" class="emoji-result">💻</g-emoji>
+  Professional Modules
+  </h1>
+  <h2>
+  <g-emoji alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png" class="emoji-result">📚</g-emoji>
+  Java Advanced
+  </h2>
+  <h3>
+  <g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji>
+  Java Advanced - May 2022
+  </h3>
+  
+  1. Stacks and Queues 
+  2. Multidimensional Arrays 
+  3. Sets and Maps Advanced 
+  4. Streams, Files and Directories 
+  5. Functional Programming 
+  6. Defining classes 
+  7. Workshop 
+  8. Generics 
+  9. Iterators and Comparators 
+  10. Workshop 
+  <h3>
+  <g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji>
+  Java OOP - June 2022
+  </h3>
+  <h2>
+  <g-emoji alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png" class="emoji-result">📚</g-emoji>
+  JS Advanced
+  </h2>
+  <h3>
+  <g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji>
+  JS Advanced
+  </h3>
+  <h3>
+  <g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji>
+  JS Applications
+  </h3>
+  <h2>
+  <g-emoji alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png" class="emoji-result">📚</g-emoji>
+  Java DB
+  </h2>
+  <h3>
+  <g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji>
+  MYSQL
+  </h3>
+  <h3>
+  <g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji>
+  Spring Data
+  </h3>
+  <h2>
+  <g-emoji alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png" class="emoji-result">📚</g-emoji>
+  Java Web
+  </h2>
+  <h3>
+  <g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji>
+  Spring Fundamentals
+  </h3>
+  <h3>
+  <g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji>
+  Spring Advanced
+  </h3>
+  
