@@ -70,7 +70,7 @@ Programming Fundamentals with Java - January 2022
   Java Advanced - May 2022
   </h3>
   
-  1. Stacks and Queues 
+  1. Stacks and Queues - <a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Professional%20Modules/Java%20Advanced/Java%20Advanced/src/StacksAndQueues/Lab" rel="nofollow">Lab</a>
   2. Multidimensional Arrays 
   3. Sets and Maps Advanced 
   4. Streams, Files and Directories 
