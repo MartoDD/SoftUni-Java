@@ -22,40 +22,4 @@
   <g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji>
   Java OOP - June 2022
   </h3>
-  <h2>
-  <g-emoji alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png" class="emoji-result">📚</g-emoji>
-  JS Advanced
-  </h2>
-  <h3>
-  <g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji>
-  JS Advanced
-  </h3>
-  <h3>
-  <g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji>
-  JS Applications
-  </h3>
-  <h2>
-  <g-emoji alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png" class="emoji-result">📚</g-emoji>
-  Java DB
-  </h2>
-  <h3>
-  <g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji>
-  MYSQL
-  </h3>
-  <h3>
-  <g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji>
-  Spring Data
-  </h3>
-  <h2>
-  <g-emoji alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png" class="emoji-result">📚</g-emoji>
-  Java Web
-  </h2>
-  <h3>
-  <g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji>
-  Spring Fundamentals
-  </h3>
-  <h3>
-  <g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji>
-  Spring Advanced
-  </h3>
   
