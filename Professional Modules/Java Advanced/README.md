@@ -1,7 +1,4 @@
-<h1>
-   <g-emoji alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png" class="emoji-result">💻</g-emoji>
-  Professional Modules
-  </h1>
+
   <h2>
   <g-emoji alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png" class="emoji-result">📚</g-emoji>
   Java Advanced
