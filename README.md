@@ -68,7 +68,7 @@ Programming Fundamentals with Java - January 2022
   <h3>
   <g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji>
   Java Advanced - May 2022
-   <br><a href="[https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Programming%20Basics%20with%20Java/src](https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Professional%20Modules/Java%20Advanced/Java%20Advanced/src)" rel=nofollow>Go to Folder</a>
+   <br><a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Professional%20Modules/Java%20Advanced/Java%20Advanced/src" rel=nofollow>Go to Folder</a>
   </h3>
   
   1. Stacks and Queues - <a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Professional%20Modules/Java%20Advanced/Java%20Advanced/src/StacksAndQueues/Lab" rel="nofollow">Lab</a>
