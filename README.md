@@ -71,8 +71,8 @@ Programming Fundamentals with Java - January 2022
    <br><a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Professional%20Modules/Java%20Advanced/Java%20Advanced/src" rel=nofollow>Go to Folder</a>
   </h3>
   
-  1. Stacks and Queues - <a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Professional%20Modules/Java%20Advanced/Java%20Advanced/src/StacksAndQueues/Lab" rel="nofollow">Lab</a>
-  2. Multidimensional Arrays 
+  1. Stacks and Queues - <a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Professional%20Modules/Java%20Advanced/Java%20Advanced/src/StacksAndQueues/Lab" rel="nofollow">Lab</a>, <a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Professional%20Modules/Java%20Advanced/Java%20Advanced/src/StacksAndQueues/Exercises" rel="nofollow">Exercise</a>
+  2. Multidimensional Arrays - <a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Professional%20Modules/Java%20Advanced/Java%20Advanced/src/MultidimensionalArrays/Lab" rel="nofollow">Lab</a>
   3. Sets and Maps Advanced 
   4. Streams, Files and Directories 
   5. Functional Programming 
