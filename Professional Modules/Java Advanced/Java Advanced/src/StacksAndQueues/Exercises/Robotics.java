@@ -31,7 +31,7 @@ public class Robotics {
             timerAsNumber++;                               //за всеки цикъл увеличавам с 1 секунда
             boolean hasFree = false;
             for (Robot robot : robots) {                     //итерирам през списъка с роботи и проверявам дали има свободни (ако е намерало вече свободен, не влиза отново). Всеки робот има таймер в класът си
-                boolean b = robot.getTimer() == robot.getTimeToProcess(); //като проверявам дали има таймер, който е на 0 или има таймер който е равна стойност като времето необходимо на робота да обработи продукта
+                boolean b = robot.getTimer() >= robot.getTimeToProcess(); //като проверявам дали има таймер, който е на 0 или има таймер който е равна стойност като времето необходимо на робота да обработи продукта
                 if (!hasFree && (b || robot.getTimer() == 0)) {
                     System.out.println(robot.getName() + " - " + productQueue.poll() + currentTime(timerAsNumber)); //тук принтирам, чрез метод настоящото време като обърщам от секунди във формата за принтиране
                     robot.setTimer(1);

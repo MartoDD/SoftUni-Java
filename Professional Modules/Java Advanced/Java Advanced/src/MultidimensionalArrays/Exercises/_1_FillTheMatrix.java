@@ -9,70 +9,64 @@ public class _1_FillTheMatrix {
 
         String[] input = scanner.nextLine().split(", ");
         int value = Integer.parseInt(input[0]);
+        int[][] matrix = new int[value][value];
         if (value == 0) {
             System.out.println(0);
         } else {
             switch (input[1]) {
                 case "A":
-                    printMatrixA(value);
+                    matrix = printMatrixA(value);
                     break;
                 case "B":
-                    printMatrixB(value);
+                    matrix = printMatrixB(value);
                     break;
             }
         }
+        printMatrix(matrix);
     }
 
-    private static void printMatrixB(int value) {
+    private static void printMatrix(int[][] matrix) {
+        for (int[] row : matrix) {
+            for (int col : row) {
+                System.out.print(col + " ");
+            }
+            System.out.println();
+
+        }
+
+    }
+
+    private static int[][] printMatrixB(int value) {
 
         int[][] matrix = new int[value][value];
-        for (int row = 0; row < value; row++) {
-            int number = row + 1;
-            int toAdd = value * 2;
-            for (int col = 0; col < value; col++) {
-                if (col % 2 == 0) {
-                    if (col == 0) {
-                        matrix[row][col] = number;
-                    } else {
-                        matrix[row][col] = matrix[row][col - 2] + toAdd;
-                    }
-                } else {
-                    if (col == 1) {
-                        matrix[row][col] = matrix[row][col - 1] + toAdd - number - row;
-                    } else {
-                        matrix[row][col] = matrix[row][col - 2] + toAdd;
-                    }
+        int number = 1;
+        for (int col = 0; col < value; col++) {
+            if (col % 2 == 0) {
+                for (int row = 0; row < value; row++) {
+                    matrix[row][col] = number;
+                    number++;
+                }
+            } else {
+                for (int row = value - 1; row >= 0; row--) {
+                    matrix[row][col] = number;
+                    number++;
                 }
             }
         }
-        for (int[] row : matrix) {
-            for (int col : row) {
-                System.out.print(col + " ");
-            }
-            System.out.println();
-
-        }
+        return matrix;
 
     }
 
-    private static void printMatrixA(int value) {
+    private static int[][] printMatrixA(int value) {
 
         int[][] matrix = new int[value][value];
-        for (int row = 0; row < value; row++) {
-            int number = row + 1;
-            for (int col = 0; col < value; col++) {
+        int number = 1;
+        for (int col = 0; col < value; col++) {
+            for (int row = 0; row < value; row++) {
                 matrix[row][col] = number;
-                number += value;
+                number++;
             }
-
         }
-        for (int[] row : matrix) {
-            for (int col : row) {
-                System.out.print(col + " ");
-            }
-            System.out.println();
-
-        }
-
+        return matrix;
     }
 }

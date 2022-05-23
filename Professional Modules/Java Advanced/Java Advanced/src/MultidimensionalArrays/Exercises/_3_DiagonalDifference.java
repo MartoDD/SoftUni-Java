@@ -19,7 +19,6 @@ public class _3_DiagonalDifference {
             col++;
         }
 
-
         int sumSecondDiagonal = 0;
         row = matrix.length - 1;
         col = 0;

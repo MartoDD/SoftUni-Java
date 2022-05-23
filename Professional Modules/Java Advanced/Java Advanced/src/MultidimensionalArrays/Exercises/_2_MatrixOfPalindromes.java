@@ -13,7 +13,7 @@ public class _2_MatrixOfPalindromes {
         int cols = parameters[1];
 
         String[][] matrix = new String[rows][cols];
-        //a=97
+
         char initial = 97;
         for (int row = 0; row < rows; row++) {
             for (int col = 0; col < cols; col++) {
