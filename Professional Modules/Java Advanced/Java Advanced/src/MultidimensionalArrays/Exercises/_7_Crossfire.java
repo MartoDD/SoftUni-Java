@@ -1,9 +1,6 @@
 package MultidimensionalArrays.Exercises;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-import java.util.Scanner;
+import java.util.*;
 
 public class _7_Crossfire {
     public static void main(String[] args) {
@@ -14,7 +11,7 @@ public class _7_Crossfire {
         int rows = dimensions[0];
         int cols = dimensions[1];
 
-        String[][] matrix = createMatrix(rows, cols);
+        List<List<String>> matrix = createMatrix(rows, cols);
 
         String input = scanner.nextLine();
 
@@ -35,8 +32,9 @@ public class _7_Crossfire {
 
     }
 
-    private static void printMatrix(String[][] matrix) {
-        for (String[] row : matrix) {
+
+    private static void printMatrix(List<List<String>> matrix) {
+        for (List<String> row : matrix) {
             for (String col : row) {
                 System.out.print(col + " ");
             }
@@ -46,16 +44,15 @@ public class _7_Crossfire {
 
     }
 
-    private static String[][] nukeMatrix(String[][] matrix, int row, int col, int radius) {
+    private static List<List<String>> nukeMatrix(List<List<String>> matrix, int row, int col, int radius) {
 
-        String[][] nukedMatrix = new String[matrix.length][matrix[0].length];
+        List<List<String>> nukedMatrix = new ArrayList<>();
 
-        for (int r = 0; r < matrix.length; r++) {
-            for (int c = 0; c < matrix[0].length; c++) {
+        for (int r = 0; r < matrix.size(); r++) {
+            nukedMatrix.add(new ArrayList<>());
+            for (int c = 0; c < matrix.get(r).size(); c++) {
                 if (destroyed(matrix, row, col, radius, r, c)) {
-                    nukedMatrix[r][c] = matrix[r][c];
-                }else {
-                    nukedMatrix[r][c]="";
+                    nukedMatrix.get(r).add(matrix.get(r).get(c));
                 }
             }
         }
@@ -63,49 +60,49 @@ public class _7_Crossfire {
         return nukedMatrix;
     }
 
-    private static boolean destroyed(String[][] matrix, int row, int col, int radius, int r, int c) {
+    private static boolean destroyed(List<List<String>> matrix, int row, int col, int radius, int r, int c) {
 
         List<Integer> rowTargets = new ArrayList<>();
 
-        for (int i = row; i < matrix.length && i <= row + radius; i++) {
+        for (int i = row; i < matrix.size() && i <= row + radius; i++) {
             rowTargets.add(i);
         }
-        for (int i = row-1; i >= 0 && i >= row - radius; i--) {
+        for (int i = row - 1; i >= 0 && i >= row - radius; i--) {
             rowTargets.add(i);
         }
 
         List<Integer> colTargets = new ArrayList<>();
 
-        for (int i = col; i < matrix[0].length && i <= col + radius; i++) {
+        for (int i = col; i < matrix.get(r).size() && i <= col + radius; i++) {
             colTargets.add(i);
         }
 
-        for (int i = col-1; i >= 0 && i >= col - radius; i--) {
+        for (int i = col - 1; i >= 0 && i >= col - radius; i--) {
             colTargets.add(i);
         }
 
         for (Integer rowTarget : rowTargets) {
-            if (rowTarget==r && c==col){
+            if (rowTarget == r && c == col) {
                 return false;
             }
         }
         for (Integer colTarget : colTargets) {
-            if (colTarget==c && r==row){
+            if (colTarget == c && r == row) {
                 return false;
             }
         }
 
-
         return true;
     }
 
-    private static String[][] createMatrix(int rows, int cols) {
+    private static List<List<String>> createMatrix(int rows, int cols) {
 
-        String[][] matrix = new String[rows][cols];
+        List<List<String>> matrix = new ArrayList<>();
         int number = 1;
-        for (String[] row : matrix) {
-            for (int col = 0; col < row.length; col++) {
-                row[col] = String.valueOf(number);
+        for (int row = 0; row < rows; row++) {
+            matrix.add(new ArrayList<>());
+            for (int col = 0; col < cols; col++) {
+                matrix.get(row).add(String.valueOf(number));
                 number++;
             }
         }
