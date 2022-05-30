@@ -26,20 +26,12 @@ public class _2_SetsOfElements {
             }
         }
 
-        if (firstSet.size() <= secondSet.size()) {
-            for (Integer integer : firstSet) {
-                if (secondSet.contains(integer)) {
-                    System.out.print(integer + " ");
-                }
-            }
+        firstSet.retainAll(secondSet);
 
-        } else {
-            for (Integer integer1 : secondSet) {
-                if (firstSet.contains(integer1)) {
-                    System.out.println(integer1 + " ");
-                }
-            }
-
+        for (Integer integer : firstSet) {
+            System.out.print(integer + " ");
         }
+
+
     }
 }
