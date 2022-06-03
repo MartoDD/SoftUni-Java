@@ -37,29 +37,28 @@ public class _11_ThePartyReservationFilterModule {
             String direction = miniCommands[0];
             String parameter = miniCommands[1];
 
+            Predicate<String> predicate = getPredicate(direction, parameter);
 
-            Predicate<String> startsWith = s -> !s.startsWith(parameter);
-            Predicate<String> endsWith = s -> !s.endsWith(parameter);
-            Predicate<String> length = s -> s.length() != Integer.parseInt(parameter);
-            Predicate<String> contains = s -> !s.contains(parameter);
+            guests = guests.stream().filter(predicate).collect(Collectors.toList());
 
-            switch (direction) {
-                case "Starts with":
-                    guests = guests.stream().filter(startsWith).collect(Collectors.toList());
-                    break;
-                case "Ends with":
-                    guests = guests.stream().filter(endsWith).collect(Collectors.toList());
-                    break;
-                case "Length":
-                    guests = guests.stream().filter(length).collect(Collectors.toList());
-                    break;
-                case "Contains":
-                    guests = guests.stream().filter(contains).collect(Collectors.toList());
-                    break;
-            }
         }
         System.out.println(String.join(" ", guests));
 
 
+    }
+
+    private static Predicate<String> getPredicate(String direction, String parameter) {
+        switch (direction) {
+            case "Starts with":
+                return s -> !s.startsWith(parameter);
+            case "Ends with":
+                return s -> !s.endsWith(parameter);
+            case "Length":
+                return s -> s.length() != Integer.parseInt(parameter);
+            case "Contains":
+                return s -> !s.contains(parameter);
+            default:
+                throw new IllegalStateException();
+        }
     }
 }
