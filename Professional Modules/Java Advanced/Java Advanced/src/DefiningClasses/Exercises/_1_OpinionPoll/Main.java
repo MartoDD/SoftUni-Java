@@ -24,7 +24,7 @@ public class Main {
 
         }
 
-        people.stream().sorted(Comparator.comparing(Person::getName)).filter(p -> p.getAge() > 30).forEach(person -> System.out.println(person.getInfo()));
+        people.stream().sorted(Comparator.comparing(Person::getName)).filter(p -> p.getAge() > 30).forEach(System.out::println);
 
     }
 }

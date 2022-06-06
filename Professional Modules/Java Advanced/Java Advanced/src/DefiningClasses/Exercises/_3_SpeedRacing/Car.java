@@ -28,7 +28,8 @@ public class Car {
         System.out.println("Insufficient fuel for the drive");
     }
 
-    public String printInfo() {
+    @Override
+    public String toString() {
         return String.format("%s %.2f %d", this.model, this.fuelAmount, this.distanceTravelled);
     }
 

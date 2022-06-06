@@ -38,7 +38,7 @@ public class Main {
             input = scanner.nextLine();
         }
 
-        cars.forEach((k, v) -> System.out.println(v.printInfo()));
+        cars.forEach((k, v) -> System.out.println(v));
 
     }
 }

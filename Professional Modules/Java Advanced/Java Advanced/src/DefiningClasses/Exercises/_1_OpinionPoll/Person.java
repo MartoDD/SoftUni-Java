@@ -21,11 +21,8 @@ public class Person {
         return age;
     }
 
-    public void setAge(int age) {
-        this.age = age;
-    }
-
-    public String getInfo() {
+    @Override
+    public String toString() {
         return String.format("%s - %d", this.name, this.age);
     }
 }

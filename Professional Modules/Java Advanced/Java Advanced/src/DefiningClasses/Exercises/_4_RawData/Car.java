@@ -1,5 +1,6 @@
 package DefiningClasses.Exercises._4_RawData;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class Car {
@@ -13,7 +14,7 @@ public class Car {
         this.model = model;
         this.cargo = cargo;
         this.engine = engine;
-        this.tires = tires;
+        this.tires=new ArrayList<>(tires);
     }
 
     public String getModel() {

@@ -55,7 +55,8 @@ public class Main {
                 highestDep = entry.getKey();
             }
         }
+
         System.out.println("Highest Average Salary: " + highestDep);
-        departments.get(highestDep).stream().sorted((e1, e2) -> Double.compare(e2.getSalary(), e1.getSalary())).forEach(employee1 -> System.out.println(employee1.getInfo()));
+        departments.get(highestDep).stream().sorted((e1, e2) -> Double.compare(e2.getSalary(), e1.getSalary())).forEach(System.out::println);
     }
 }

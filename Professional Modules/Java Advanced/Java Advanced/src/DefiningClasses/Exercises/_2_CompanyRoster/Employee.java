@@ -19,27 +19,16 @@ public class Employee {
         this.age = -1;
     }
     public Employee(String name, double salary, String department, String position, String email) {
-        this.name = name;
-        this.salary = salary;
-        this.department = department;
-        this.position = position;
+       this(name,salary,department,position);
         this.email = email;
-        this.age = -1;
     }
     public Employee(String name, double salary, String department, String position, int age) {
-        this.name = name;
-        this.salary = salary;
-        this.department = department;
-        this.position = position;
-        this.email = "n/a";
+        this(name,salary,department,position);
         this.age = age;
     }
 
     public Employee(String name, double salary, String department, String position, String email, int age) {
-        this.name = name;
-        this.salary = salary;
-        this.department = department;
-        this.position = position;
+        this(name,salary,department,position);
         this.email = email;
         this.age = age;
     }
@@ -56,7 +45,8 @@ public class Employee {
         return salary;
     }
 
-    public String getInfo() {
+    @Override
+    public String toString() {
         return String.format("%s %.2f %s %d", this.name, this.salary, this.email, this.age);
     }
 }
