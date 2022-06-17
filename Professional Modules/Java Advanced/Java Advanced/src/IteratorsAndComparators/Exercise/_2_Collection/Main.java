@@ -1,4 +1,4 @@
-package IteratorsAndComparators.Exercise._1_ListyIterator;
+package IteratorsAndComparators.Exercise._2_Collection;
 
 import java.util.Arrays;
 import java.util.List;
@@ -11,7 +11,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         String input = scanner.nextLine();
-        List<String> string=Arrays.stream(input.split("\\s+")).collect(Collectors.toList());
+        List<String> string = Arrays.stream(input.split("\\s+")).collect(Collectors.toList());
         string.remove(0);
         Listyiterator listiterator = new Listyiterator(string);
 
@@ -26,6 +26,10 @@ public class Main {
                     break;
                 case "HasNext":
                     System.out.println(listiterator.hasNext());
+                    break;
+                case "PrintAll":
+                    listiterator.forEach(e -> System.out.print(e + " "));
+                    System.out.println();
                     break;
             }
 
