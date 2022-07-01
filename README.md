@@ -54,7 +54,7 @@ Programming Fundamentals with Java - January 2022
 17. Git and GitHub
 18. QA Introduction
 <h3>
-<g-emoji alias="wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f527.png" class="emoji-result">🔧</g-emoji> <a href="https://github.com/MartoDD/Basic-Web-Project--Phonebook">Basic Web Project</a>
+<g-emoji alias="wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f527.png" class="emoji-result">🔧</g-emoji> <a href="https://github.com/MartoDD/Basic-Web-Project--nPhonebook">Basic Web Project</a>
    </h3>
 
 <h1>
@@ -68,6 +68,8 @@ Programming Fundamentals with Java - January 2022
   <h3>
   <g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji>
   Java Advanced - May 2022
+  <a href="https://softuni.bg/certificates/details/136108/ee4a5486" rel="nofollow">Certified</a>
+<g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji>
    <br><a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Professional%20Modules/Java%20Advanced/Java%20Advanced/src" rel=nofollow>Go to Folder</a>
   </h3>
   
