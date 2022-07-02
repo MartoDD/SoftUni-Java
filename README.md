@@ -87,6 +87,10 @@ Programming Fundamentals with Java - January 2022
   <g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji>
   Java OOP - June 2022
   </h3>
+  
+  1.Working with Abstraction
+  2.Encapsulation
+  
   <h2>
   <g-emoji alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png" class="emoji-result">📚</g-emoji>
   JS Advanced
