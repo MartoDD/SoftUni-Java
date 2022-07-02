@@ -94,11 +94,12 @@ Programming Fundamentals with Java - January 2022
   4. Interfaces and Abstraction -  
   5. Polymorphism - 
   6. SOLID - 
-  7. Workshop 
-  8. Reflection and Annotation - 
-  9. Exceptions and Error Handling -
-  10. Unit Testin -
-  
+  7. Reflection and Annotation - 
+  8. Exceptions and Error Handling -
+  9. Unit Testing -
+  10. Test Driven Development - 
+  11. Design Patterns -
+ 
     
   
   <h2>
