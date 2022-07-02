@@ -4,7 +4,6 @@
   Java Advanced - May 2022
   <a href="https://softuni.bg/certificates/details/136108/ee4a5486" rel="nofollow">Certified</a>
 <g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji>
-   <br><a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Professional%20Modules/Java%20Advanced/Java%20Advanced/src" rel=nofollow>Go to Folder</a>
   </h3>
   
   1. Stacks and Queues - <a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Professional%20Modules/Java%20Advanced/Java%20Advanced/src/StacksAndQueues/Lab" rel="nofollow">Lab</a>, <a href="https://github.com/MartoDD/SoftUni-Java-Web-Developer/tree/main/Professional%20Modules/Java%20Advanced/Java%20Advanced/src/StacksAndQueues/Exercises" rel="nofollow">Exercise</a>
