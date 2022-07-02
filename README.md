@@ -88,8 +88,18 @@ Programming Fundamentals with Java - January 2022
   Java OOP - June 2022
   </h3>
   
-  1.Working with Abstraction
-  2.Encapsulation
+  1. Working with Abstraction - 
+  2. Encapsulation -
+  3. Inheritance -
+  4. Interfaces and Abstraction -  
+  5. Polymorphism - 
+  6. SOLID - 
+  7. Workshop 
+  8. Reflection and Annotation - 
+  9. Exceptions and Error Handling -
+  10. Unit Testin -
+  
+    
   
   <h2>
   <g-emoji alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png" class="emoji-result">📚</g-emoji>
