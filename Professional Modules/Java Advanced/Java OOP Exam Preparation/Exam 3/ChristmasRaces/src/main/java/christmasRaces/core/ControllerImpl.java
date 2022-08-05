@@ -51,7 +51,7 @@ public class ControllerImpl implements Controller {
             car = new SportsCar(model, horsePower);
         }
         carRepository.add(car);
-        return String.format(OutputMessages.CAR_CREATED, type, model);
+        return String.format(OutputMessages.CAR_CREATED, car.getClass().getSimpleName(), model);
     }
 
     @Override
