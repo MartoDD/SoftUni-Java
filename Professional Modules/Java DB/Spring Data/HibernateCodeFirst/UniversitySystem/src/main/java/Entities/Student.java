@@ -13,9 +13,6 @@ public class Student extends Person{
     private int attendance;
 
     @ManyToMany
-    @JoinTable(name = "students_courses",
-            joinColumns = @JoinColumn(name = "students_id",referencedColumnName = "id"),
-            inverseJoinColumns = @JoinColumn(name = "courses_id",referencedColumnName = "id"))
     private Set<Course> courses;
 
 

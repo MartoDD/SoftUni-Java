@@ -1,4 +1,4 @@
-package DBAppsIntroduction.Exercises;
+package Exercises;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

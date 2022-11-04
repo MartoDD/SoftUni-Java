@@ -29,8 +29,8 @@ public class Course {
 
     @ManyToMany(mappedBy = "courses")
     private Set<Student> students;
+
     @ManyToOne
-    @JoinColumn(name = "teacher_id")
     private Teacher teacher;
 
 

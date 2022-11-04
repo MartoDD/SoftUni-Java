@@ -1,4 +1,4 @@
-package DBAppsIntroduction.Exercises;
+package Exercises;
 
 public class Constants {
 
