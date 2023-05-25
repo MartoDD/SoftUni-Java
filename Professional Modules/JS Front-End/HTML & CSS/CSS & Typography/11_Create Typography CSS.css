@@ -1,0 +1,46 @@
+body{
+    font-family: Helvetica, sans-serif;
+    line-height: 1.5;
+    padding: 2em;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: Georgia, serif;
+    font-weight: 100;
+}
+
+blockquote{
+    border-left: 3px solid rgb(221, 221, 221);
+    font-style: italic;
+    padding-top: 0.5em;
+    padding-bottom: 1.5em;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+.sign{
+    text-align: right;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+td,tr{
+    border: 1px solid #cccccc;
+    padding: 0.3em;
+}
+
+tr:nth-child(even){
+    background-color: #f1f1f1;
+}
+
+td{
+    width: 800em;
+    
+}
+
+tr.header{
+    background-color: #cccccc;
+    font-weight: bold;
+}

@@ -1,0 +1,29 @@
+html{
+    font-family: Helvetica, sans-serif;    
+    padding: 2em;
+}
+
+nav{
+    display: inline;
+}
+
+nav a{
+    display: inline-block;
+    text-decoration: none;
+    color: green;
+    padding: 1.5em 0.5em;
+}
+
+main{
+    border-top: 2px solid black;
+}
+
+h1{
+    display: inline;
+    padding-right: 3em;
+}
+
+h2{
+    font-weight: 300;
+}
+
