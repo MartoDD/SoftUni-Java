@@ -8,7 +8,7 @@ function solve(people,type,day){
                 case `Students`:
                     price=8.45 * people;
                     if (people>=30){
-                        price=price*0.75;
+                        price=price*0.85;
                     }
                     break;
                 case `Business`:
@@ -31,7 +31,7 @@ function solve(people,type,day){
                 case `Students`:
                     price=9.80 * people;
                     if (people>=30){
-                        price=price*0.75;
+                        price=price*0.85;
                     }
                     break;
                 case `Business`:
@@ -54,7 +54,7 @@ function solve(people,type,day){
                 case `Students`:
                     price=10.46 * people;
                     if (people>=30){
-                        price=price*0.75;
+                        price=price*0.85;
                     }
                     break;
                 case `Business`:
@@ -78,6 +78,6 @@ function solve(people,type,day){
 
 }
 
-solve(30,
-    "Students",
-    "Sunday")
+solve(40,
+    "Regular",
+    "Saturday")
