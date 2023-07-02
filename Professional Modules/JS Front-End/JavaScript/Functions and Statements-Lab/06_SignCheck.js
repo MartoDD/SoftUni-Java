@@ -10,8 +10,11 @@ function signCheck(num){
 
 function solve(num1,num2,num3){
 
-return signCheck(num1) && signCheck(num2) && signCheck (num3);
-
+if(num1*num2*num3<0){
+    return `Negative`;
+}else{
+    return `Positive`
+}
 
 }
 
